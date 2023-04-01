@@ -51,16 +51,16 @@
   <a href="https://chat.whatsapp.com/IwAfr8zkfwSHIDwoMB97zr">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/posts/students-cpc-8b3504269_studentsabrcpc-activity-7044396846957371392-tM0v?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+<!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/Students_CPC">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:Scpc.media23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
