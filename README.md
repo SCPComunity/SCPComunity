@@ -37,10 +37,10 @@
 ---
 
 ### إحصائياتنا :fire: :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Challengeteam1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SCPComunity&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Challengeteam1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCPComunity&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>
   حياكم الله في مجتمعنا للبرمجة التنافسية
